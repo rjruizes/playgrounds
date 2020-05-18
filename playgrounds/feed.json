@@ -24,7 +24,11 @@
               "name": "Languages",
               "value": "English"
           }
-      ]
+      ],
+			"previewImageURLs": [
+					"https://raw.githubusercontent.com/lennet/image-filtering/master/Screenshots/Screenshot1.png",
+					"https://raw.githubusercontent.com/lennet/image-filtering/master/Screenshots/Screenshot2.png"
+			]
     }
   ]
 }
