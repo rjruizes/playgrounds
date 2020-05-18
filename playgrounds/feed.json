@@ -1,7 +1,7 @@
 {
   "title": "Roman's Playgrounds",
   "subtitle": "Nothing special",
-  "publisher": "Roman Ruiz-Esparza",
+  "publisherName": "Roman Ruiz-Esparza",
   "feedIdentifier": "com.example.rjruizes",
   "publishDate": 2020,
   "contactURL": "https://github.com/rjruizes/rjruizes.github.io",
@@ -15,7 +15,7 @@
       "contentVersion": "1.0",
       "publishedDate": "2017-11-13T21:13:57+00:00",
       "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
-      "url": "../singleview/singleview.playground.zip"
+      "url": "https://rjruizes.github.io/playgrounds/singleview/singleview.playground.zip"
     }
   ]
 }
