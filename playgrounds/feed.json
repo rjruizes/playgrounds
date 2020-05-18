@@ -17,8 +17,8 @@
       "publishedDate": "2017-11-13T21:13:57+00:00",
       "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
       "url": "https://rjruizes.github.io/playgrounds/singleview/singleview.playground.zip",
-			"bannerImageURL": "https://raw.githubusercontent.com/lennet/image-filtering/master/banner_2x.png",
-			"thumbnailURL": "https://raw.githubusercontent.com/lennet/image-filtering/master/Image%20Filtering.playgroundbook/Contents/PrivateResources/cover.png",
+			"bannerImageURL": "https://rjruizes.github.io/playgrounds/singleview/banner.png",
+			"thumbnailURL": "https://rjruizes.github.io/playgrounds/singleview/cover.png",
       "additionalInformation": [
           {
               "name": "Languages",
@@ -26,7 +26,7 @@
           }
       ],
 			"previewImageURLs": [
-					"https://rjruizes.github.io/playgrounds/singleview/screenshots/screenshot1.png"
+					"https://rjruizes.github.io/playgrounds/img/screenshot1.png"
 			]
     }
   ]
