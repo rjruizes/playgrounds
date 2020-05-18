@@ -18,7 +18,13 @@
       "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
       "url": "https://rjruizes.github.io/playgrounds/singleview/singleview.playground.zip",
 			"bannerImageURL": "https://raw.githubusercontent.com/lennet/image-filtering/master/banner_2x.png",
-			"thumbnailURL": "https://raw.githubusercontent.com/lennet/image-filtering/master/Image%20Filtering.playgroundbook/Contents/PrivateResources/cover.png"
+			"thumbnailURL": "https://raw.githubusercontent.com/lennet/image-filtering/master/Image%20Filtering.playgroundbook/Contents/PrivateResources/cover.png",
+      "additionalInformation": [
+          {
+              "name": "Languages",
+              "value": "English"
+          }
+      ]
     }
   ]
 }
